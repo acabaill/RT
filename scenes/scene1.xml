@@ -1,0 +1,41 @@
+<camera>
+    <pos1 x="300.0" y="0" z="0.0"/>
+    <pos2 x="0.0" y="0.0" z="0.0"/>
+</camera>
+<light>
+    <type name="spot"/>
+    <pos x="200.0" y="0.0" z="0.0"/>
+    <color r="255" g="255" b="255"/>
+    <lum lum="50"/>
+</light>
+<object>
+    <type name="paraboloid"/>
+    <pos x="0" y="0" z="-10"/>
+    <dir x="0" y="0" z="1.0"/>
+    <color r="0" g="190" b="189" a="255"/>
+    <radius r="11"/>
+    <negative neg="0"/>
+    <cut>
+        <pos x="21" y="0" z="0"/>
+        <dir x="1" y="0" z="0"/>
+    </cut>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="1"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+</object>
+<ambiant>
+    <color r="255" g="255" b="255"/>
+</ambiant>
+<config>
+    <filter filtre="3"/>
+    <antialiasing AA="1"/>
+    <depth nb="1"/>
+    <reflect nb="1"/>
+    <height height="480"/>
+    <width width="640"/>
+</config>

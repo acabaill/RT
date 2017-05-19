@@ -1,0 +1,481 @@
+<camera>
+    <pos1 x="400." y="200" z="0.0"/>
+    <pos2 x="20.0" y="0.0" z="00.0"/>
+</camera>
+<light>
+    <type name="spot"/>
+    <pos x="100.0" y="0.0" z="10.0"/>
+    <color r="0" g="255" b="200"/>
+    <lum lum="50"/>
+</light>
+<object>
+    <type name="cylinder"/>
+    <pos x="20" y="0" z="0"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="130" g="190" b="80" a="255"/>
+    <radius r="20"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="-15"/>
+        <h2 h2="20"/>
+    </cut>
+</object>
+<object>
+    <type name="cylinder"/>
+    <pos x="20" y="0" z="0"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="255" g="255" b="255" a="255"/>
+    <radius r="18"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="23"/>
+        <h2 h2="20"/>
+    </cut>
+</object>
+<object>
+    <type name="cylinder"/>
+    <pos x="20" y="0" z="15"/>
+    <dir x="0.0" y="1.0" z="0.0"/>
+    <color r="255" g="255" b="255" a="255"/>
+    <radius r="2"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="25"/>
+        <h2 h2="-25"/>
+    </cut>
+</object>
+<object>
+<type name="cylinder"/>
+<pos x="20" y="25" z="0"/>
+<dir x="0.0" y="0.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="20"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="cylinder"/>
+<pos x="20" y="-25" z="0"/>
+<dir x="0.0" y="0.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="20"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="cylinder"/>
+<pos x="20" y="8" z="0"/>
+<dir x="0.0" y="0.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="10"/>
+    <h2 h2="-25"/>
+</cut>
+</object>
+<object>
+<type name="cylinder"/>
+<pos x="20" y="-8" z="0"/>
+<dir x="0.0" y="0.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="10"/>
+    <h2 h2="-25"/>
+</cut>
+</object>
+<object>
+<type name="sphere"/>
+<pos x="20" y="0" z="12"/>
+<dir x="0.0" y="0.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="22"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="30"/>
+    <h2 h2="10"/>
+</cut>
+</object>
+<object>
+<type name="sphere"/>
+<pos x="35" y="7" z="26"/>
+<dir x="0.0" y="0.0" z="1.0"/>
+<color r="255" g="255" b="255" a="255"/>
+<radius r="1.5"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="sphere"/>
+<pos x="35" y="-7" z="26"/>
+<dir x="0.0" y="0.0" z="1.0"/>
+<color r="255" g="255" b="255" a="255"/>
+<radius r="1.5"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="cylinder"/>
+<pos x="25" y="3" z="27"/>
+<dir x="0.0" y="1.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="0.5"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="15"/>
+    <h2 h2="-15"/>
+</cut>
+</object>
+<object>
+<type name="cylinder"/>
+<pos x="25" y="-3" z="27"/>
+<dir x="0.0" y="-1.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="0.5"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="15"/>
+    <h2 h2="-15"/>
+</cut>
+</object>
+<object>
+<type name="sphere"/>
+<pos x="20" y="25" z="1"/>
+<dir x="0.0" y="-1.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="sphere"/>
+<pos x="20" y="-25" z="1"/>
+<dir x="0.0" y="-1.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="sphere"/>
+<pos x="20" y="25" z="20"/>
+<dir x="0.0" y="-1.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="sphere"/>
+<pos x="20" y="-25" z="20"/>
+<dir x="0.0" y="-1.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="sphere"/>
+<pos x="20" y="8" z="-25"/>
+<dir x="0.0" y="-1.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="sphere"/>
+<pos x="20" y="-8" z="-25"/>
+<dir x="0.0" y="-1.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="plan"/>
+<pos x="20" y="0" z="-27"/>
+<dir x="0.0" y="0.0" z="1.0"/>
+<color r="255" g="255" b="255" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="plan"/>
+<pos x="-50" y="0" z="-27"/>
+<dir x="1.0" y="0.0" z="0.0"/>
+<color r="255" g="255" b="255" a="255"/>
+<radius r="4"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="disk"/>
+<pos x="20" y="0" z="-15"/>
+<dir x="0.0" y="0.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="20"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="disk"/>
+<pos x="20" y="0" z="20"/>
+<dir x="0.0" y="0.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="20"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<object>
+<type name="disk"/>
+<pos x="20" y="0" z="22"/>
+<dir x="0.0" y="0.0" z="1.0"/>
+<color r="130" g="190" b="80" a="255"/>
+<radius r="20"/>
+<negative neg="0"/>
+<mat>
+    <perlin perlin="0"/>
+    <coef coefspec="0.4"/>
+    <pow powspec="100"/>
+    <color1 r="215" g="0" b="99"/>
+    <color2 r="148" g="218" b="188"/>
+    <n coef="2.334"/>
+</mat>
+<cut>
+    <h1 h1="0"/>
+    <h2 h2="0"/>
+</cut>
+</object>
+<ambiant>
+    <color r="255" g="255" b="255"/>
+</ambiant>
+<config>
+    <filter filtre="0"/>
+    <antialiasing AA="3"/>
+    <depth nb="1"/>
+    <reflect nb="3"/>
+    <height height="480"/>
+    <width width="640"/>
+</config>

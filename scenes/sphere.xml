@@ -1,0 +1,741 @@
+<camera>
+    <pos1 x="300." y="0" z="0.0"/>
+    <pos2 x="20.0" y="0.0" z="00.0"/>
+</camera>
+<light>
+    <type name="spot"/>
+    <pos x="100.0" y="0.0" z="0.0"/>
+    <color r="255" g="255" b="255"/>
+    <lum lum="100"/>
+</light>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="60" z="40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="40" z="40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="20" z="40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="0" z="40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-20" z="40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-40" z="40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-60" z="40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-60" z="20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-40" z="20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-20" z="20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="0" z="20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="20" z="20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="40" z="20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="60" z="20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="60" z="0"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="40" z="0"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="20" z="0"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="0" z="0"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-20" z="0"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-40" z="0"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-60" z="0"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-60" z="-20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-40" z="-20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-20" z="-20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="0" z="-20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="20" z="-20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="40" z="-20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="60" z="-20"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="60" z="-40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="40" z="-40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="20" z="-40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="0" z="-40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-20" z="-40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-40" z="-40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="87" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="20" y="-60" z="-40"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="187" g="122" b="220" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="60" y="0" z="0"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="255" g="0" b="0" a="0"/>
+    <radius r="25"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="8.334"/>
+    </mat>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+    </cut>
+</object>
+<ambiant>
+    <color r="255" g="255" b="255"/>
+</ambiant>
+<config>
+    <filter filtre="3"/>
+    <antialiasing AA="3"/>
+    <depth nb="5"/>
+    <reflect nb="5"/>
+    <height height="480"/>
+    <width width="640"/>
+</config>

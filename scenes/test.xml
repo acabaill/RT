@@ -1,0 +1,162 @@
+<camera>
+    <pos1 x="150." y="100" z="15.0"/>
+    <pos2 x="00.0" y="0.0" z="00.0"/>
+</camera>
+<light>
+    <type name="spot"/>
+    <pos x="500.0" y="200.0" z="0.0"/>
+    <color r="255" g="255" b="255"/>
+    <lum lum="15"/>
+</light>
+<light>
+    <type name="spot"/>
+    <pos x="500.0" y="-200.0" z="0.0"/>
+    <color r="255" g="255" b="255"/>
+    <lum lum="15"/>
+</light>
+<light>
+    <type name="spot"/>
+    <pos x="0.0" y="0.0" z="200.0"/>
+    <color r="255" g="255" b="255"/>
+    <lum lum="15"/>
+</light>
+<object>
+    <type name="sphere"/>
+    <pos x="0" y="0" z="0"/>
+    <dir x="0.0" y="0.0" z="1.0"/>
+    <color r="=0" g="255" b="255" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut_check cut="0"/>
+    <texture text="5"/>
+    <cut>
+        <h1 h1="10"/>
+        <h2 h2="0"/>
+        <pos x="30" y="0" z="0"/>
+        <dir x="-1.0" y="0" z=".0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="0" y="-20" z="0"/>
+    <dir x="0.0" y="1.0" z="0.0"/>
+    <color r="255" g="0" b="0" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut_check cut="0"/>
+    <texture text="6"/>
+    <cut>
+        <h1 h1="5"/>
+        <h2 h2="5"/>
+        <pos x="30" y="0" z="0"/>
+        <dir x="-1.0" y="0" z=".0"/>
+    </cut>
+</object>
+<object>
+    <type name="sphere"/>
+    <pos x="0" y="20" z="0"/>
+    <dir x="0.0" y="1.0" z="0.0"/>
+    <color r="255" g="0" b="0" a="255"/>
+    <radius r="10"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut_check cut="0"/>
+    <texture text="7"/>
+    <cut>
+        <h1 h1="10"/>
+        <h2 h2="-10"/>
+        <pos x="30" y="0" z="0"/>
+        <dir x="-1.0" y="0" z=".0"/>
+    </cut>
+</object>
+<object>
+    <type name="plan"/>
+    <pos x="-200" y="0" z=""/>
+    <dir x="1.0" y="0.0" z="0.0"/>
+    <color r="255" g="255" b="255" a="255"/>
+    <radius r="50"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut_check cut="0"/>
+    <texture text="0"/>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+        <pos x="30" y="0" z="0"/>
+        <dir x="-1.0" y="0" z=".0"/>
+    </cut>
+</object>
+<object>
+    <type name="plan"/>
+    <pos x="00" y="0" z="-10"/>
+    <dir x=".0" y="0.0" z="1.0"/>
+    <color r="255" g="255" b="255" a="255"/>
+    <radius r="50"/>
+    <negative neg="0"/>
+    <mat>
+        <perlin perlin="0"/>
+        <coef coefspec="0.4"/>
+        <pow powspec="100"/>
+        <color1 r="215" g="0" b="99"/>
+        <color2 r="148" g="218" b="188"/>
+        <n coef="2.334"/>
+    </mat>
+    <cut_check cut="0"/>
+    <texture text="0"/>
+    <cut>
+        <h1 h1="0"/>
+        <h2 h2="0"/>
+        <pos x="30" y="0" z="0"/>
+        <dir x="-1.0" y="0" z=".0"/>
+    </cut>
+</object>
+<ambiant>
+    <color r="255" g="255" b="255"/>
+</ambiant>
+<texture>
+    <newtext text="eztext.bmp"/>
+    <newtest text="eztext2.bmp"/>
+    <newtest text="fat_scene.bmp"/>
+    <newtest text="USSS.bmp"/>
+    <newtest text="futur.bmp"/>
+    <newtest text="deg.bmp"/>
+    <newtest text="uggly.bmp"/>
+</texture>
+<config>
+    <filter filtre="0"/>
+    <antialiasing AA="2"/>
+    <depth nb="5"/>
+    <reflect nb="5"/>
+    <height height="480"/>
+    <width width="640"/>
+</config>
